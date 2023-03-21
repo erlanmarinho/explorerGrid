@@ -19,7 +19,7 @@ Projeto avançado do explorer 10, construimos uma página usando grid <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto explorer 10" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
